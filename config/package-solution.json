@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-photogallery-client-side-solution",
+    "id": "e056fc94-a90d-4741-81f0-72cfadb64dc7",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-photogallery.spapp"
+  }
+}
